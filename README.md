@@ -1,0 +1,2 @@
+# pythonMiniProjects
+practicing python!!!
